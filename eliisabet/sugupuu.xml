@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="sugupuu.xsl"?>
+<sugupuu>
+ <pereliige synniaasta="1926">
+  <nimi>Elizabeth II</nimi>
+  <pereliikmed>
+   <pereliige synniaasta="1948">
+    <nimi>Charles III</nimi>
+    <pereliikmed>
+     <pereliige synniaasta="1982">
+      <nimi>William</nimi>
+      <pereliikmed>
+       <pereliige synniaasta="2013">
+        <nimi>George</nimi>
+        <vanemad>
+         <vanem>
+          <nimi>William</nimi>
+         </vanem>
+         <vanem>
+          <nimi>Catherine</nimi>
+         </vanem>
+        </vanemad>
+       </pereliige>
+       <pereliige synniaasta="2015">
+        <nimi>Charlotte</nimi>
+        <vanemad>
+         <vanem>
+          <nimi>William</nimi>
+         </vanem>
+         <vanem>
+          <nimi>Catherine</nimi>
+         </vanem>
+        </vanemad>
+       </pereliige>
+       <pereliige synniaasta="2018">
+        <nimi>Louis</nimi>
+        <vanemad>
+         <vanem>
+          <nimi>William</nimi>
+         </vanem>
+         <vanem>
+          <nimi>Catherine</nimi>
+         </vanem>
+        </vanemad>
+       </pereliige>
+      </pereliikmed>
+     </pereliige>
+     <pereliige synniaasta="1984">
+      <nimi>Harry</nimi>
+      <pereliikmed>
+       <pereliige synniaasta="2019">
+        <nimi>Archie</nimi>
+        <vanemad>
+         <vanem>
+          <nimi>Harry</nimi>
+         </vanem>
+         <vanem>
+          <nimi>Meghan</nimi>
+         </vanem>
+        </vanemad>
+       </pereliige>
+       <pereliige synniaasta="2021">
+        <nimi>Lilibet</nimi>
+        <vanemad>
+         <vanem>
+          <nimi>Harry</nimi>
+         </vanem>
+         <vanem>
+          <nimi>Meghan</nimi>
+         </vanem>
+        </vanemad>
+       </pereliige>
+      </pereliikmed>
+     </pereliige>
+    </pereliikmed>
+   </pereliige>
+   <pereliige synniaasta="1950">
+    <nimi>Anne</nimi>
+    <vanemad>
+     <vanem>
+      <nimi>Elizabeth II</nimi>
+     </vanem>
+     <vanem>
+      <nimi>Philip</nimi>
+     </vanem>
+    </vanemad>
+   </pereliige>
+   <pereliige synniaasta="1960">
+    <nimi>Andrew Mountbatten-Windsor</nimi>
+    <pereliikmed>
+     <pereliige synniaasta="1988">
+      <nimi>Beatrice</nimi>
+      <vanemad>
+       <vanem>
+        <nimi>Andrew Mountbatten-Windsor</nimi>
+       </vanem>
+       <vanem>
+        <nimi>Sarah Ferguson</nimi>
+       </vanem>
+      </vanemad>
+     </pereliige>
+     <pereliige synniaasta="1990">
+      <nimi>Eugenie</nimi>
+      <vanemad>
+       <vanem>
+        <nimi>Andrew Mountbatten-Windsor</nimi>
+       </vanem>
+       <vanem>
+        <nimi>Sarah Ferguson</nimi>
+       </vanem>
+      </vanemad>
+     </pereliige>
+    </pereliikmed>
+   </pereliige>
+   <pereliige synniaasta="1964">
+    <nimi>Edward</nimi>
+    <vanemad>
+     <vanem>
+      <nimi>Elizabeth II</nimi>
+     </vanem>
+     <vanem>
+      <nimi>Philip</nimi>
+     </vanem>
+    </vanemad>
+   </pereliige>
+  </pereliikmed>
+ </pereliige>
+</sugupuu>
+
+<!-- <?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="sugupuu.xsl"?>
+<sugupuu>
+ <pereliige synniaasta="1926">
+  <nimi>Elizabeth II</nimi>
+  <pereliikmed>
+   <pereliige synniaasta="1948">
+    <nimi>Charles III</nimi>
+    <pereliikmed>
+     <pereliige synniaasta="1982">
+      <nimi>William</nimi>
+      <pereliikmed>
+       <pereliige synniaasta="2013">
+        <nimi>George</nimi>
+       </pereliige>
+       <pereliige synniaasta="2015">
+        <nimi>Charlotte</nimi>
+       </pereliige>
+       <pereliige synniaasta="2018">
+        <nimi>Louis</nimi>
+       </pereliige>
+      </pereliikmed>
+     </pereliige>
+     <pereliige synniaasta="1984">
+      <nimi>Harry</nimi>
+      <pereliikmed>
+       <pereliige synniaasta="2019">
+        <nimi>Archie</nimi>
+       </pereliige>
+       <pereliige synniaasta="2021">
+        <nimi>Lilibet</nimi>
+       </pereliige>
+      </pereliikmed>
+     </pereliige>
+    </pereliikmed>
+   </pereliige>
+   <pereliige synniaasta="1950">
+    <nimi>Anne</nimi>
+   </pereliige>
+   <pereliige synniaasta="1960">
+    <nimi>Andrew Mountbatten-Windsor</nimi>
+    <pereliikmed>
+     <pereliige synniaasta="1988">
+      <nimi>Beatrice</nimi>
+     </pereliige>
+    </pereliikmed>
+   </pereliige>
+   <pereliige synniaasta="1964">
+    <nimi>Edward</nimi>
+   </pereliige>
+  </pereliikmed>
+ </pereliige>
+</sugupuu> -->
